@@ -1,0 +1,5 @@
+Programa: Faça um programa que mostre a mensagem "alo mundo" na tela
+
+INICIO
+	ESCREVA "Alo Mundo"
+FIM

@@ -1,0 +1,11 @@
+Programa: Faça um programa que peça um número e então mostre a mensagem "O número informado foi [número]."
+
+VAR
+	num
+
+INICIO
+	ESCREVA "Digite um número"
+	LEIA num
+	ESCREVA "O número informado foi ", num
+FIM
+
